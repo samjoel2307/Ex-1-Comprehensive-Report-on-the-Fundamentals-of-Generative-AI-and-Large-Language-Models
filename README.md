@@ -64,7 +64,7 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
+[Ex1 comprehensive report of Generative AI and LLM  (1).pdf](https://github.com/user-attachments/files/26232570/Ex1.comprehensive.report.of.Generative.AI.and.LLM.1.pdf)
 
-[ex1 lab report.pdf](https://github.com/user-attachments/files/26232520/ex1.lab.report.pdf)
 
 Result:
